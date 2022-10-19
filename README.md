@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarahStelljes
 - 👀 I’m interested in all the arts, movies, tv shows, games, and coding.
-- 🌱 I’m currently learning how to make websites in a Full Stack Web Development bootcamp.
+- 🌱 I've learned how to make websites in a Full Stack Web Development bootcamp, but I know there is still more to learn.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
